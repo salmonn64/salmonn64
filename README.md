@@ -60,7 +60,7 @@ Yeah they are not too fancy, Im more a programmer than an artist, but I put it h
 
 ## Pregúntame.
 
-I've worked in this program for about 2 months before de 1.0 release. It is on my plans to keep working in it. I want it to be a useful tool for students that are preparing for exams in the multiple choice format, at the moment the software is written in spanish and documentation too because its main goal is to help students that have to do admision test for México Universities, but I want to translate everything to english.
+I've worked in this program for about 2 months before the 1.0 release. It is on my plans to keep working in it. I want it to be a useful tool for students that are preparing for exams in the multiple choice format, at the moment the software is written in spanish and documentation too because its main goal is to help students that have to do admision test for México Universities, but I want to translate everything to english.
 Software randomly takes questions contained in .txt files with a specified format and choses wrong and rights answers, the user has to select the right answer. Software allows to:
 * Multiple right answers per question.
 * Tagging questions.
