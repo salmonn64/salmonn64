@@ -1,3 +1,4 @@
+
 ## Hi there 👋!
 My name is José David García Díaz, I'm 25 years old and I live in Durango, México; but is on my plans to move to CDMX, México since I'm studying computer science in the Universidad Autonóma de México. I like playing and making games. I spend a lot of time playing with the Unity Engine capacities, imitating mechanics from games that I like or testing things that I would like in a videogame. Lately I've been interested in competitive programming too, is fun and it could help me to improve my algorithms to solve programming problems. I will keep this profile updated as a portfolio with the latest personal projects I've worked on.
 
@@ -66,6 +67,8 @@ Software randomly takes questions contained in .txt files with a specified forma
 * Include images with questions and answers.
 
 ![pREGU](https://user-images.githubusercontent.com/50729585/130719160-c806beaf-bd2b-4b8a-ac6f-4a6b4ed8ead9.jpg)
+
+![PreguntameScreen](https://user-images.githubusercontent.com/50729585/130732669-df8d63fd-7fa4-485b-8260-26f98dc72069.png)
 
 You can check it out [**here.**](https://github.com/salMonLaferte/Preguntame)
 It is written in C# and uses WPF for the user interface.
