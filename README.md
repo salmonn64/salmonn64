@@ -3,11 +3,11 @@ My name is José David García Díaz, I'm 25 years old and I live in Durango, M�
 
 ## Game development.
 
-I like to play videogames and I've been learning how to make them since 2017. I started using the Monogame framework but I switched to Unity, which has become my favorite engine and the one I feel more comfortable working on, but I also tried Godot and Unreal. You can see some of my work in my [**Itch**](https://salmon64.itch.io/) profile.
+I started using the Monogame framework in 2016, but I switched to Unity, which has become my favorite engine and the one I feel more comfortable working on, but I also tried Godot and Unreal. In this page you can see a summary of my work or play some of my games in my [**Itch**](https://salmon64.itch.io/) profile.
 
 ### Project KOE
 
-[Project KOE](https://salmon64.itch.io/project-koe) is the most ambicious game I've worked on, is a 2D platformer with gameplay inspired by Super Meat Boy and graphics inspired by Hollow Knight.I making this game and its assets all by myself with the exceptions of the sound effects and music (wich I have license to use  them). 
+[Project KOE](https://salmon64.itch.io/project-koe) is the most ambicious game I've worked on, is a 2D platformer with gameplay inspired by Super Meat Boy and graphics inspired by Hollow Knight. I made this game and its assets all by myself with the exceptions of the sound effects and music (wich I have license to use  them). 
 
 ![KOEbanner](https://user-images.githubusercontent.com/50729585/125860287-718ba6a8-269a-419c-b671-b76de80726bd.png)
 
@@ -22,7 +22,7 @@ For this I used the following tools:
 
 ![KoeScreen](https://user-images.githubusercontent.com/50729585/125859812-84fbe450-aeac-40c5-9c77-2fd9ecac366d.png)
 
-A playable demo is available for Windows and it features: 
+A playable demo is available for Windows and Linux, it features: 
 * 6 levels which gives the demo an aproximate lenght of 40 minutes.
 * It can be played in english or spanish.
 * Pulished graphics with some cool shaders and parallax scrolling for sense of depth.
@@ -61,9 +61,9 @@ Yeah they are not too fancy, Im more a programmer than an artist, but I put it h
 
 I've worked in this program for about 2 months before de 1.0 release. It is on my plans to keep working in it. I want it to be a useful tool for students that are preparing for exams in the multiple choice format, at the moment the software is written in spanish and documentation too because its main goal is to help students that have to do admision test for México Universities, but I want to translate everything to english.
 Software randomly takes questions contained in .txt files with a specified format and choses wrong and rights answers, the user has to select the right answer. Software allows to:
-* Multiple right answers to be selected
+* Multiple right answers per question.
 * Tagging questions.
-* Include images with questions and possible answers.
+* Include images with questions and answers.
 
 ![pREGU](https://user-images.githubusercontent.com/50729585/130719160-c806beaf-bd2b-4b8a-ac6f-4a6b4ed8ead9.jpg)
 
@@ -80,7 +80,6 @@ It is written in C# and uses WPF for the user interface.
 [Twitch](https://www.twitch.tv/salmonlaferte) 
 
 [Youtube](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w)
-
 
 [Twitter](https://twitter.com/salMonLaferte)
 
