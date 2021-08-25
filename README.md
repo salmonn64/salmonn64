@@ -1,20 +1,5 @@
-### Hi there 👋
-My name is José David García Díaz, I'm 25 years old and I live in Durango, México; but is on my planes to move to CDMX, México.
-
-## Pregúntame.
-
-I've worked in this program for about 2 months before de 1.0 release. It is on my plans to keep working in it. I want it to be a useful tool for students that are preparing for exams in the multiple choice format, at the moment the software is written in spanish and documentation too because its main goal is to help students that have to do admision test for México Universities, but I want to translate everything to english.
-The software creates questions from a text
-Software randomly takes questions contained in .txt files with a specified format and choses wrong and rights answers, the user has to select the right answer. Software allows to:
-* Multiple right answers to be selected
-* Tagging questions.
-* Include images with questions and possible answers.
-
-![ImagenPregu](https://user-images.githubusercontent.com/50729585/128581315-a2ae482a-2eaf-4ab3-8220-5ba2e1528ce6.png)
-
-
-You can check it out [**here.**](https://github.com/salMonLaferte/Preguntame)
-It is written in C# and uses WPF for the user interface.
+## Hi there 👋!
+My name is José David García Díaz, I'm 25 years old and I live in Durango, México; but is on my plans to move to CDMX, México since I'm studying computer science in the Universidad Autonóma de México. I like playing and making games. I spend a lot of time playing with the Unity Engine capacities, imitating mechanics from games that I like or testing things that I would like in a videogame. Lately I've been interested in competitive programming too, is fun and it could help me to improve my algorithms to solve programming problems. I will keep this profile updated as a portfolio with the latest personal projects I've worked on.
 
 ## Game development.
 
@@ -46,6 +31,13 @@ A playable demo is available for Windows and it features:
 
 If you want see the game running you can watch this [trailer](https://www.youtube.com/watch?v=Mz8lvnrH_Es) or download it [here.](https://salmon64.itch.io/project-koe)
 
+### 3D Tilemap Generator.
+A tool I'm working on for creating 3D tilemaps in unity using heightmaps. 
+
+![3dTileMap](https://user-images.githubusercontent.com/50729585/130718565-95105eb6-0969-4736-80f3-a81e716e6868.jpg)
+
+[Repository](https://github.com/salMonLaferte/3DTileMap)
+
 ### Not a Chees game.
 Not a chess game is a browser game where you have to select all the squares in a grid in which if you place a piece you will not get eaten by the other pieces.
 
@@ -60,12 +52,24 @@ Kawaii runner is a mobile and browser game, this is a endless runner where the g
 
 [Play it here!](https://salmon64.itch.io/kawaii-runner)
 
-### Routine.
-Routine is a cycle of 3 minigames where you have to try to get the highest score, it was developed in two days for the extra credits game jam.
+### Beginner 3D models I have made using blender.
+Yeah they are not too fancy, Im more a programmer than an artist, but I put it here anyway.  
 
-![Routine](https://user-images.githubusercontent.com/50729585/126056695-c2e156cb-ba05-4e8f-9ec4-8886670796e5.png)
+![3DModelsPreview](https://user-images.githubusercontent.com/50729585/130726829-419b57bb-edb4-4f9e-8a42-1ed8d32af5a7.png)
 
-[Play it here!](https://salmon64.itch.io/routine)
+## Pregúntame.
+
+I've worked in this program for about 2 months before de 1.0 release. It is on my plans to keep working in it. I want it to be a useful tool for students that are preparing for exams in the multiple choice format, at the moment the software is written in spanish and documentation too because its main goal is to help students that have to do admision test for México Universities, but I want to translate everything to english.
+Software randomly takes questions contained in .txt files with a specified format and choses wrong and rights answers, the user has to select the right answer. Software allows to:
+* Multiple right answers to be selected
+* Tagging questions.
+* Include images with questions and possible answers.
+
+![pREGU](https://user-images.githubusercontent.com/50729585/130719160-c806beaf-bd2b-4b8a-ac6f-4a6b4ed8ead9.jpg)
+
+You can check it out [**here.**](https://github.com/salMonLaferte/Preguntame)
+It is written in C# and uses WPF for the user interface.
+
 
 ### Social media.
 
@@ -76,6 +80,7 @@ Routine is a cycle of 3 minigames where you have to try to get the highest score
 [Twitch](https://www.twitch.tv/salmonlaferte) 
 
 [Youtube](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w)
+
 
 [Twitter](https://twitter.com/salMonLaferte)
 
