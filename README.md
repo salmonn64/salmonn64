@@ -1,6 +1,6 @@
 
 ## Hi there 👋!
-My name is José David García Díaz, I'm 25 years old and I live in Durango, México; but is on my plans to move to CDMX, México since I'm studying computer science in the Universidad Autonóma de México. I like playing and making games. I spend a lot of time playing with the Unity Engine capacities, imitating mechanics from games that I like or testing things that I would like in a videogame. Lately I've been interested in competitive programming too, is fun and it could help me to improve my algorithms to solve programming problems. I will keep this profile updated as a portfolio with the latest personal projects I've worked on.
+My name is José David García Díaz, I'm 25 years old and I live in Durango, México; but is on my plans to move to CDMX, México since I'm studying computer science in the Universidad Nacional Autonóma de México. I like playing and making games. I spend a lot of time playing with the Unity Engine capacities, imitating mechanics from games that I like or testing things that I would like in a videogame. Lately I've been interested in competitive programming too, is fun and it could help me to improve my algorithms to solve programming problems. I will keep this profile updated as a portfolio with the latest personal projects I've worked on.
 
 ## Game development.
 
