@@ -65,15 +65,21 @@ Software randomly takes questions contained in .txt files with a specified forma
 * Multiple right answers per question.
 * Tagging questions.
 * Include images with questions and answers.
+It is written in C# and uses WPF for the user interface.
 
-![pREGU](https://user-images.githubusercontent.com/50729585/130719160-c806beaf-bd2b-4b8a-ac6f-4a6b4ed8ead9.jpg)
+[![pREGU](https://user-images.githubusercontent.com/50729585/130719160-c806beaf-bd2b-4b8a-ac6f-4a6b4ed8ead9.jpg)](https://github.com/salMonLaferte/Preguntame)
 
 ![PreguntameScreen](https://user-images.githubusercontent.com/50729585/130732669-df8d63fd-7fa4-485b-8260-26f98dc72069.png)
 
 You can check it out [**here.**](https://github.com/salMonLaferte/Preguntame)
-It is written in C# and uses WPF for the user interface.
 
 ## Links
+
+### Play my games.
+
+[![itch](https://user-images.githubusercontent.com/50729585/132152632-51e9c377-70fc-4d73-b1ab-4b93c1e6f7b9.png)](https://salmon64.itch.io/)
+
+[Itch](https://salmon64.itch.io/)
 
 ### Competitive programming.
 
@@ -81,31 +87,9 @@ It is written in C# and uses WPF for the user interface.
 
 [Codeforces](https://codeforces.com/profile/salMonLaferte) // [Leetcode](https://leetcode.com/salmonLaferte/) // [HackerRank](https://www.hackerrank.com/jdaviddiaz64)
 
-### Play my games.
-
-[![itch](https://user-images.githubusercontent.com/50729585/132152632-51e9c377-70fc-4d73-b1ab-4b93c1e6f7b9.png)](https://salmon64.itch.io/)
-
-
-[Itch](https://salmon64.itch.io/)
-
 ### Social media.
 
-[![in](https://user-images.githubusercontent.com/50729585/132152926-49efb233-f98c-4824-925c-47d737bdcea3.png)](https://www.linkedin.com/in/david-diaz-salmon/)  [![twich](https://user-images.githubusercontent.com/50729585/132153099-8cf8570e-e600-47aa-85c4-ad54aa341d0f.png)](https://www.twitch.tv/salmonlaferte) [![yt](https://user-images.githubusercontent.com/50729585/132153878-cf979724-793f-4310-9909-5529d87554cf.png)](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w)
-
+[![in](https://user-images.githubusercontent.com/50729585/132152926-49efb233-f98c-4824-925c-47d737bdcea3.png)](https://www.linkedin.com/in/david-diaz-salmon/)  [![twich](https://user-images.githubusercontent.com/50729585/132153099-8cf8570e-e600-47aa-85c4-ad54aa341d0f.png)](https://www.twitch.tv/salmonlaferte) [![yt](https://user-images.githubusercontent.com/50729585/132153878-cf979724-793f-4310-9909-5529d87554cf.png)](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w) [![TWIT](https://user-images.githubusercontent.com/50729585/132154594-cfdb70ca-082e-4a73-84ad-18fa7828ce3e.png)](https://twitter.com/salMonLaferte) [![instagram](https://user-images.githubusercontent.com/50729585/132154731-9a443206-7a19-4d3c-8ab7-cdb690fa3b85.png)](https://www.instagram.com/lakituskip/)
 
 [LinkedIn](https://www.linkedin.com/in/david-diaz-salmon/) // 
 [Twitch](https://www.twitch.tv/salmonlaferte) // [Youtube](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w) // [Twitter](https://twitter.com/salMonLaferte) // [Instagram](https://www.instagram.com/lakituskip/)
-<!--
-**salMonLaferte/salMonLaferte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--![cfim](https://user-images.githubusercontent.com/50729585/132150883-82d28bfa-1fbf-40e3-801b-a35caaf60335.png) I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
