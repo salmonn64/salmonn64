@@ -73,26 +73,34 @@ Software randomly takes questions contained in .txt files with a specified forma
 You can check it out [**here.**](https://github.com/salMonLaferte/Preguntame)
 It is written in C# and uses WPF for the user interface.
 
+## Links
 
-### Social media.
+### Competitive programming.
 
-[LinkedIn](https://www.linkedin.com/in/david-diaz-salmon/)
+[![cfim](https://user-images.githubusercontent.com/50729585/132150927-7cf437c7-384c-40b5-aa08-97e4dbd649a7.png)](https://codeforces.com/profile/salMonLaferte) [![lc](https://user-images.githubusercontent.com/50729585/132151727-3cd340ef-26dd-4938-b026-2c466d3aa1dd.png)](https://leetcode.com/salmonLaferte/) [![HR](https://user-images.githubusercontent.com/50729585/132151997-7123821a-768e-4220-a2b9-352702860521.png)](https://www.hackerrank.com/jdaviddiaz64)
+
+[Codeforces](https://codeforces.com/profile/salMonLaferte) // [Leetcode](https://leetcode.com/salmonLaferte/) // [HackerRank](https://www.hackerrank.com/jdaviddiaz64)
+
+### Play my games.
+
+[![itch](https://user-images.githubusercontent.com/50729585/132152632-51e9c377-70fc-4d73-b1ab-4b93c1e6f7b9.png)](https://salmon64.itch.io/)
+
 
 [Itch](https://salmon64.itch.io/)
 
-[Twitch](https://www.twitch.tv/salmonlaferte) 
+### Social media.
 
-[Youtube](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w)
+[![in](https://user-images.githubusercontent.com/50729585/132152926-49efb233-f98c-4824-925c-47d737bdcea3.png)](https://www.linkedin.com/in/david-diaz-salmon/)  [![twich](https://user-images.githubusercontent.com/50729585/132153099-8cf8570e-e600-47aa-85c4-ad54aa341d0f.png)](https://www.twitch.tv/salmonlaferte) [![yt](https://user-images.githubusercontent.com/50729585/132153878-cf979724-793f-4310-9909-5529d87554cf.png)](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w)
 
-[Twitter](https://twitter.com/salMonLaferte)
 
-[Instagram](https://www.instagram.com/lakituskip/)
+[LinkedIn](https://www.linkedin.com/in/david-diaz-salmon/) // 
+[Twitch](https://www.twitch.tv/salmonlaferte) // [Youtube](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w) // [Twitter](https://twitter.com/salMonLaferte) // [Instagram](https://www.instagram.com/lakituskip/)
 <!--
 **salMonLaferte/salMonLaferte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-![cfim](https://user-images.githubusercontent.com/50729585/132150883-82d28bfa-1fbf-40e3-801b-a35caaf60335.png) I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
