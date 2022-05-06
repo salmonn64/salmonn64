@@ -98,7 +98,7 @@ You can check it out [**here.**](https://github.com/salMonLaferte/Preguntame)
 
 ### Social media.
 
-[![in](https://user-images.githubusercontent.com/50729585/132152926-49efb233-f98c-4824-925c-47d737bdcea3.png)](https://www.linkedin.com/in/david-diaz-salmon/)  [![twich](https://user-images.githubusercontent.com/50729585/132153099-8cf8570e-e600-47aa-85c4-ad54aa341d0f.png)](https://www.twitch.tv/salmonlaferte) [![yt](https://user-images.githubusercontent.com/50729585/132153878-cf979724-793f-4310-9909-5529d87554cf.png)](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w) [![TWIT](https://user-images.githubusercontent.com/50729585/132154594-cfdb70ca-082e-4a73-84ad-18fa7828ce3e.png)](https://twitter.com/salMonLaferte) [![instagram](https://user-images.githubusercontent.com/50729585/132154731-9a443206-7a19-4d3c-8ab7-cdb690fa3b85.png)](https://www.instagram.com/lakituskip/)
+[![in](https://user-images.githubusercontent.com/50729585/132152926-49efb233-f98c-4824-925c-47d737bdcea3.png)](https://www.linkedin.com/in/david-diaz-salmon/) [![yt](https://user-images.githubusercontent.com/50729585/132153878-cf979724-793f-4310-9909-5529d87554cf.png)](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w) [!
 
 [LinkedIn](https://www.linkedin.com/in/david-diaz-salmon/) // 
-[Twitch](https://www.twitch.tv/salmonlaferte) // [Youtube](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w) // [Twitter](https://twitter.com/salMonLaferte) // [Instagram](https://www.instagram.com/lakituskip/)
+[Youtube](https://www.youtube.com/channel/UCl80g6NpLiHHOZc0HVox83w) 
