@@ -1,6 +1,6 @@
 
 ## Hi there 👋!
-My name is José David García Díaz, I'm 25 years old and I live in Durango, México; but is on my plans to move to CDMX, México since I'm studying computer science in the Universidad Nacional Autonóma de México. I like playing and making games. I spend a lot of time playing with the Unity Engine capacities, imitating mechanics from games that I like or testing things that I would like in a videogame. Lately I've been interested in competitive programming too, is fun and it could help me to improve my algorithms when solving programming problems. I will keep this profile updated as a portfolio with the latest personal projects I've worked on. 
+My name is José David García Díaz, I'm 26 years old and I live in Durango, México; but is on my plans to move to CDMX, México since I'm studying computer science in the Universidad Nacional Autonóma de México. I like playing and making games. I spend a lot of time playing with the Unity Engine capacities, emulating mechanics from games that I like or testing things that I would like in a videogame. Lately I've been interested in competitive programming too, is fun and it could help me to improve my algorithms when solving programming problems. I will keep this profile updated as a portfolio with the latest personal projects I've worked on. 
 
 ![KoeGif](https://user-images.githubusercontent.com/50729585/136474769-72417098-bf48-4359-a5d1-950a0d565088.gif)
 ![BoomerangMechanic](https://user-images.githubusercontent.com/50729585/136473162-b9e08a6b-79a2-4788-8c77-126ba7ec2c23.gif)
